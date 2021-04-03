@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Shubham Singh",
+    "occupation": "Student at Amity University #Final Year",
+    "description": "I Love React, I want to become a ReactJS Developer.Looking for work #Software Engineer",
+    "image": "Shubham.jpg",
+    "bio": "My name is Shubham, I'm a Full Stack ReactJS Developer. Currently I'm Learning Programming and completing my graduation",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "ss889469@gmail.com",
+    "phone": "+91 7530948049",
+    "address": {
+      "street": "CN-398 Malikpur Kohi",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "ND 110037"
+    },
+    "website": "https://drive.google.com/file/d/1wZkee7Wd7nGWWp3o3e8p1WR-lnevnerD/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1wZkee7Wd7nGWWp3o3e8p1WR-lnevnerD/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shubham.singh.9250595/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shubham-singh-83a85b149/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/__shubhamsingh_rajput/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ShubhamSinghRajput21",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Amity University",
+        "degree": "Batchelor in Computer Science & Engineering",
+        "graduated": "July 2021",
+        "description": "Final year"
+      },
+      {
+        "school": "Delhi Public School",
+        "degree": "Secondary Education",
+        "graduated": "April 2013",
+        "description": "Completed with Excellence"
+      },
+      {
+        "school": "Delhi Public School",
+        "degree": "Sr.Secondary Education",
+        "graduated": "April 2015",
+        "description": "Completed with Excellence"
+      }
+    ],
+    "work": [
+      {
+        "company": "TechTables",
+        "title": "Mobile App Developer Intern",
+        "years": "May 2020 - July 2020",
+        "description": "Made a mobile app in React-native."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "React-native",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "60%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "60%"
+      },
+      {
+        "name": "C++/C",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack Devconnector",
+        "category": "A mini social media platform built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "Devconnector.PNG",
+        "url": "https://shrouded-depths-03994.herokuapp.com/"
+      },
+      {
+        "title": "Chatcord",
+        "category": "A Chatting app built with NodeJS HTML5 CSS SocketIO",
+        "image": "Chatcord.PNG",
+        "url": "https://young-falls-86633.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I had the privilege of working with Shubham for more than month. He is a proactive, result-oriented, responsible and technically sound person. He is a talented young man driven by the passion of computers.",
+        "user": "Sayantan Maiti"
+      }
+    ]
+  }
+}
